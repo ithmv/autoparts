@@ -25,7 +25,7 @@
     },
     {
         "id":"Main",
-        "title":"Welcome to the CarTime Tomsk auto parts store!",
+        "title":"Welcome to the CarTime auto parts store!",
         "image": "/assets/main.jpg",
         "description":"We are your trusted partner in the world of automotive solutions. On our website you will find a wide range of high quality auto parts for all makes and models of cars. Whether you need brake discs, filters, clutches, electronics or suspension parts - We offer everything you need to service and repair your car.",
         "link": "contacts",
@@ -33,7 +33,7 @@
     },
     {
         "id":"Main",
-        "title":"CarTime Tomsk auto parts catalog contains everything you need to repair your car",
+        "title":"CarTime auto parts catalog contains everything you need to repair your car",
         "image": "/assets/parts.jpg",
         "description":"Whether you're a professional auto repairer or a personal vehicle care professional, our catalog provides everything you need to keep your vehicle in top condition. Find and order auto parts online, and trust us to provide reliable support for your vehicle's maintenance needs.",
         "link": "catalog",
@@ -51,7 +51,7 @@
         "id":"Main",
         "title":"We always keep an eye on the latest innovations in the automotive industry and tell you about it!",
         "image": "/assets/news.jpg",
-        "description":"At CarTime Tomsk, we are always at the forefront of the automotive industry. Our team is committed to providing you with the most up-to-date information on the latest news, technological advances and innovations in the automotive industry. We understand how important it is to stay up to date with the latest trends in order to make an informed choice for your car.",
+        "description":"At CarTime, we are always at the forefront of the automotive industry. Our team is committed to providing you with the most up-to-date information on the latest news, technological advances and innovations in the automotive industry. We understand how important it is to stay up to date with the latest trends in order to make an informed choice for your car.",
         "link": "news",
         "label": "What's new in the automotive world?➡️"
     },
