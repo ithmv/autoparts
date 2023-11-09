@@ -128,7 +128,7 @@
             transition: max-height .9s ease;
 
             &.slide-in {
-              max-height: 3000px;
+              max-height: 4000px;
             }
             &.slide-out {
               max-height: 0;
