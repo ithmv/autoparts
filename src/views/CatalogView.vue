@@ -151,16 +151,12 @@
               }
 
               @media screen and (max-width: 760px) {
-                width: 90vw;
+                width: 35vw;
               }
             }
 
             @media screen and (max-width: 1170px) {
               grid-template-columns: repeat(2, 1fr);
-            }
-
-            @media screen and (max-width: 760px) {
-              grid-template-columns: repeat(1, 1fr);
             }
           }
         }
