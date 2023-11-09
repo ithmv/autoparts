@@ -81,17 +81,6 @@
           &_item {
             display: flex;
             flex-direction: column;
-
-            button {
-              border: none;
-              background: none;
-              font-style: italic;
-              color: blue;
-              font-size: 14px;
-              cursor: pointer;
-              width: 15%;
-              text-decoration: underline;
-            }
           }
 
           section {
@@ -160,17 +149,17 @@
                 color: white;
                 transition: .5s;
               }
+
+              @media screen and (max-width: 760px) {
+                width: 90vw;
+              }
             }
 
             @media screen and (max-width: 1170px) {
               grid-template-columns: repeat(2, 1fr);
             }
 
-            @media screen and (min-resolution: 288dpi) {
-              grid-template-columns: repeat(2, 1fr);
-            }
-
-            @media screen and (max-width: 700px) {
+            @media screen and (max-width: 760px) {
               grid-template-columns: repeat(1, 1fr);
             }
           }

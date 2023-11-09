@@ -3,7 +3,7 @@
     <a class="header__logo" href="/">
         <img src="../assets/logo.png">
         <div class="header__logo_text">
-            <h1>Car-Time</h1>
+            <h1>CarTime</h1>
             <span>Spare parts in stock and on order</span>
         </div>
     </a>
