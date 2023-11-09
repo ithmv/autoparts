@@ -162,13 +162,14 @@
               }
             }
 
-            @media screen and (max-width: 1170px) {
-              grid-template-columns: repeat(2, 1fr);
+            @media screen and (min-resolution: 288dpi) and (max-width: 1170px) {
+                grid-template-columns: repeat(2, 1fr);
             }
 
-            @media screen and (max-width: 425px) {
+            @media screen and (max-width: 760px) and (min-resolution: 192dpi) {
               grid-template-columns: repeat(1, 1fr);
             }
+
           }
         }
     }
