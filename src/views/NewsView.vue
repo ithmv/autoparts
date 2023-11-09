@@ -9,7 +9,7 @@
                 <img :src="data.img" alt="">
                 <p>
                     {{ data.description }}
-                    <router-link to="/placeholder">Подробнее</router-link>
+                    <router-link to="/placeholder">More details...</router-link>
                 </p>
             </div>
         </div>
