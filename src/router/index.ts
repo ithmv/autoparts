@@ -31,6 +31,16 @@ const routes: Array<RouteRecordRaw> = [
     path: '/placeholder',
     name: 'placeholder',
     component: () => import('../views/PlaceholderView.vue')
+  },
+  {
+    path: '/order',
+    name: 'order',
+    component: () => import('../views/OrderView.vue')
+  },
+  {
+    path: '/policy',
+    name: 'policy',
+    component: () => import('../views/PolicyView.vue')
   }
 ]
 

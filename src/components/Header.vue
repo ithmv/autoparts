@@ -3,17 +3,17 @@
     <a class="header__logo" href="/">
         <img src="../assets/logo.png">
         <div class="header__logo_text">
-            <h1>CarTime Tomsk</h1>
-            <span>Запчасти в наличии и под заказ</span>
+            <h1>CarTime</h1>
+            <span>Spare parts in stock and on order</span>
         </div>
     </a>
 
     <nav class="header__nav">
-        <router-link to="/">Главная</router-link> |
-        <router-link to="/reviews">О нас</router-link> |
-        <router-link to="/catalog">Каталог</router-link> |
-        <router-link to="/news">Новости</router-link> |
-        <router-link to="/contacts">Контакты</router-link>
+        <router-link to="/">Home</router-link> |
+        <router-link to="/reviews">About us</router-link> |
+        <router-link to="/catalog">Catalog</router-link> |
+        <router-link to="/news">News</router-link> |
+        <router-link to="/contacts">Contacts</router-link>
     </nav>
 
     <div class="header__coords">

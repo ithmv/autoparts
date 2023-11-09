@@ -1,11 +1,11 @@
 [
     {
         "id":"Contacts",
-        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5239.242699730189!2d84.97430849951834!3d56.487911492899066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x432693136079ee67%3A0x1685ae051166e2cc!2z0JjQt9GD0LzRgNGD0LTQvdGL0Lkg0LPQvtGA0L7QtA!5e0!3m2!1sru!2sru!4v1698841124665!5m2!1sru!2sru",
-        "adress": "г.Томск Комсомольский проспект, 13Б",
-        "adress_link": "https://maps.app.goo.gl/ee3X3K3pmgQZpTiVA",
-        "adress_time": " Работаем ежедневно с 9:00 до 20:00.",
-        "adress_description": "Наш магазин находится на первом этаже торгово-развлекательного центра 'Изумрудный Город'.",
+        "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1677.030324812732!2d-96.768785!3d32.7906511!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864e98b93deebdeb%3A0x912d5a8aeeaf97f5!2zNDQzMSBFYXN0c2lkZSBBdmUsIERhbGxhcywgVFggNzUyMjYsINCh0KjQkA!5e0!3m2!1sru!2sru!4v1699487675514!5m2!1sru!2sru",
+        "adress": "4431 Eastside Ave, Dallas, TX 75226, USA",
+        "adress_link": "https://maps.app.goo.gl/9Lf4C17FbiSXb9ud7",
+        "adress_time": "We work daily from 9:00 to 20:00.",
+        "adress_description": "Our store is located on the first floor of the Emerald City shopping and entertainment center.",
         "phone": "8-800-555-35-35",
         "link": [
             "https://vk.com/ithmv",
@@ -13,9 +13,9 @@
             "https://www.instagram.com/ithmv/"
         ],
         "social": [
-            "Мы во ВКонтакте",
-            "Наш Телеграм-канал",
-            "Мы в Инстаграм"
+            "We are on VKontakte",
+            "Our Telegram channel",
+            "We're on Instagram"
         ],
         "icons": [
             "assets/icons/vk.png",
@@ -25,78 +25,78 @@
     },
     {
         "id":"Main",
-        "title":"Добро пожаловать в магазин автозапчастей CarTime Tomsk!",
+        "title":"Welcome to the CarTime Tomsk auto parts store!",
         "image": "/assets/main.jpg",
-        "description":"Мы - ваш надежный партнер в мире автомобильных решений. На нашем сайте вы найдете широкий ассортимент высококачественных автозапчастей для всех марок и моделей автомобилей. Независимо от того, нужны ли вам тормозные диски, фильтры, сцепления, электроника или детали подвески - мы предлагаем все необходимое для обслуживания и ремонта вашего автомобиля.",
+        "description":"We are your trusted partner in the world of automotive solutions. On our website you will find a wide range of high quality auto parts for all makes and models of cars. Whether you need brake discs, filters, clutches, electronics or suspension parts - We offer everything you need to service and repair your car.",
         "link": "contacts",
-        "label": "Как нас найти?➡️"
+        "label": "How to find us?➡️"
     },
     {
         "id":"Main",
-        "title":"Каталог автозапчастей CarTime Tomsk содержит все необходимое для ремонта вашего автомобиля",
+        "title":"CarTime Tomsk auto parts catalog contains everything you need to repair your car",
         "image": "/assets/parts.jpg",
-        "description":"Не важно, занимаетесь ли вы ремонтом автомобилей профессионально или заботитесь о вашем личном транспорте, наш каталог предоставляет все необходимое для поддержания вашего автомобиля в отличном состоянии. Находите и заказывайте автозапчасти онлайн, и доверьтесь нам для надежной поддержки в обслуживании вашего автомобиля.",
+        "description":"Whether you're a professional auto repairer or a personal vehicle care professional, our catalog provides everything you need to keep your vehicle in top condition. Find and order auto parts online, and trust us to provide reliable support for your vehicle's maintenance needs.",
         "link": "catalog",
-        "label": "Перейти в каталог➡️"
+        "label": "Go to catalog➡️"
     },
     {
         "id":"Main",
-        "title":"CarTime Tomsk - Компания, существующая уже более  10 лет на рынке, имеет множество положительных отзывов",
+        "title":"CarTime - A company that has been on the market for over 10 years and has many positive reviews",
         "image": "/assets/review.png",
-        "description":"Не важно, занимаетесь ли вы ремонтом автомобилей профессионально или заботитесь о вашем личном транспорте, наш каталог предоставляет все необходимое для поддержания вашего автомобиля в отличном состоянии. Находите и заказывайте автозапчасти онлайн, и доверьтесь нам для надежной поддержки в обслуживании вашего автомобиля.",
+        "description":"Whether you're a professional auto repairer or a personal vehicle care professional, our catalog provides everything you need to keep your vehicle in top condition. Find and order auto parts online, and trust us to provide reliable support for your vehicle's maintenance needs.",
         "link": "reviews",
-        "label": "О нас➡️"
+        "label": "About us➡️"
     },
     {
         "id":"Main",
-        "title":"Всегда следим за последними новинками автомобильной отрасли и рассказываем вам!",
+        "title":"We always keep an eye on the latest innovations in the automotive industry and tell you about it!",
         "image": "/assets/news.jpg",
-        "description":"В CarTime Tomsk мы всегда на передовых рубежах автомобильной индустрии. Наша команда стремится предоставлять вам самую актуальную информацию о последних новинках, технологических достижениях и инновациях в автомобильной сфере. Мы понимаем, насколько важно быть в курсе последних тенденций, чтобы сделать информированный выбор для вашего автомобиля.",
+        "description":"At CarTime Tomsk, we are always at the forefront of the automotive industry. Our team is committed to providing you with the most up-to-date information on the latest news, technological advances and innovations in the automotive industry. We understand how important it is to stay up to date with the latest trends in order to make an informed choice for your car.",
         "link": "news",
-        "label": "Что нового в автомобильном мире?➡️"
+        "label": "What's new in the automotive world?➡️"
     },
     {
         "id":"About",
-        "title":"CarTime Tomsk - ваш проводник в мире автозапчастей",
-        "description": "Мы стремимся сделать процесс подбора и приобретения автозапчастей максимально удобным и доступным для вас. Наши специалисты внимательно следят за новейшими технологическими трендами и постоянно расширяют ассортимент продукции, чтобы предоставить вам самые передовые решения.",
-        "subtitle": "Наши преймущества:",
+        "title":"CarTime - your guide to the world of auto parts",
+        "description": "We strive to make the process of selecting and purchasing auto parts as convenient and accessible as possible for you. Our specialists closely monitor the latest technological trends and are constantly expanding our product range to provide you with the most advanced solutions.",
+        "subtitle": "Our advantages:",
         "list": [
-            "Гарантия качества: Мы предоставляем гарантию на наши запчасти, что гарантирует вам долгий срок службы и надежность.",
+            "Quality Guarantee: We provide a guarantee on our spare parts, which guarantees you long service life and reliability.",
 
-            "Постоянное обновление ассортимента: Мы следим за рынком и всегда обновляем наше предложение, чтобы предложить вам самые актуальные детали и аксессуары.",
+            "Constantly updating the range: We monitor the market and always update our offer in order to offer you the most current parts and accessories.",
 
-            "Прозрачность и честность: Мы ценим доверие наших клиентов и всегда предоставляем честную информацию о товарах и услугах.",
+            "Transparency and Honesty: We value the trust of our customers and always provide honest information about products and services.",
 
-            "Партнерство с известными брендами: Мы сотрудничаем с известными производителями автозапчастей, что позволяет нам предлагать вам лучшие бренды на рынке.",
+            "Partnerships with famous brands: We cooperate with famous auto parts manufacturers, which allows us to offer you the best brands on the market.",
 
-            "Быстрая доставка: Мы стремимся обеспечить максимальное удобство нашим клиентам, предоставляя быструю доставку в удобное для вас время.",
+            "Fast Delivery: We strive to provide maximum convenience to our customers by providing fast delivery at a time convenient for you.",
 
-            "Программа лояльности: У нас есть программа лояльности, которая позволяет нашим постоянным клиентам получать дополнительные скидки и бонусы.",
+            "Loyalty program: We have a loyalty program that allows our regular customers to receive additional discounts and bonuses.",
 
-            "Онлайн-поддержка: Наши онлайн-консультанты всегда готовы помочь вам с вопросами и решением проблем.",
+            "Online support: Our online consultants are always ready to help you with questions and problem solving.",
 
-            "Большой выбор способов оплаты: Мы предоставляем разнообразные способы оплаты, чтобы сделать процесс заказа максимально удобным.",
+            "A wide range of payment methods: We provide a variety of payment methods to make the ordering process as convenient as possible.",
 
-            "Экологически ответственность: Мы следим за окружающей средой и предлагаем экологически чистые продукты и варианты утилизации.",
+            "Environmentally responsible: We respect the environment and offer environmentally friendly products and recycling options.",
 
-            "Современное оборудование: Наши склады и центры обработки заказов оборудованы современной техникой для максимальной эффективности.",
+            "Modern equipment: Our warehouses and order processing centers are equipped with modern technology for maximum efficiency.",
 
-            "Информативные ресурсы: Наши клиенты имеют доступ к библиотеке руководств и информации о ремонте и обслуживании автомобилей.",
+            "Informative resources: Our customers have access to a library of manuals and information on vehicle repair and maintenance.",
 
-            "Гибкие условия возврата: Мы предоставляем удобные условия для возврата и обмена товаров в случае несоответствия.",
+            "Flexible return conditions: We provide convenient conditions for returning and exchanging goods in case of discrepancy.",
 
-            "Регулярные акции и скидки: Мы постоянно радуем наших клиентов специальными предложениями и акциями.",
+            "Regular promotions and discounts: We constantly delight our customers with special offers and promotions.",
 
-            "Репутация и отзывы: Наша компания обладает прекрасной репутацией и положительными отзывами от клиентов.",
+            "Reputation and reviews: Our company has an excellent reputation and positive feedback from customers.",
 
-            "Стремление к улучшению: Мы всегда ищем пути совершенствования наших услуг и удовлетворения потребностей наших клиентов."
+            "Commitment to Improvement: We are always looking for ways to improve our services and meet the needs of our customers."
         ],
-        "content": "Мы гордимся этими преимуществами и готовы предоставить вам лучший сервис в мире автозапчастей. Доверьтесь нам, и ваш автомобиль всегда будет в отличной форме."
+        "content": "We are proud of these advantages and are ready to provide you with the best service in the world of auto parts. Trust us and your car will always be in great shape."
     },
     {
         "id":"Catalog",
-        "title":"Каталог запчастей для вашего автомобиля!",
-        "subtitle": " Наш широкий ассортимент предлагает все, что вам нужно, чтобы поддерживать вашу машину в идеальном состоянии. Независимо от марки или модели вашего автомобиля, мы предоставляем высококачественные запчасти чтобы удовлетворить ваши потребности. Наш профессиональный сервис и доступные цены делают обслуживание и ремонт вашего автомобиля доступными и беззаботными. Доверьтесь нам, и ваш автомобиль всегда будет в отличном состоянии!",
+        "title":"Catalog of spare parts for your car!",
+        "subtitle": "Our wide selection offers everything you need to keep your car in tip-top condition. Regardless of the make or model of your car, we provide high-quality parts to meet your needs. Our professional service and affordable prices make maintenance and repairs a breeze your car in an affordable and worry-free way. Trust us and your car will always be in excellent condition!",
         "brands": [
             "Toyota",
             "Nissan",
@@ -144,15 +144,15 @@
             "assets/brands/opel-logo.png"
         ],
         "parts" : [
-            "Кузовные детали",
-            "Двигатель",
-            "Трансмиссия",
-            "Подвеска",
-            "Выхлопная система",
-            "Электроника",
-            "Оптика",
-            "Рулевое управление",
-            "Тормозная система "
+            "Body parts",
+            "Engine",
+            "Transmission",
+            "Suspension",
+            "Exhaust system",
+            "Electronics",
+            "Optics",
+            "Steering",
+            "Brake system "
         ],
 
         "parts_images": [
@@ -169,37 +169,41 @@
     },
     {
         "id":"News",
-        "title":"Renault Master 2024 станет более изящным",
-        "date": "08.11.2023",
-        "description": "Renault Master готовится к дебюту: производитель выпустил первый тизер обновленного фургона. Официальная презентация состоится в ближайшие дни на выставке Solutrans. Модель разработана «для оптимального использования» с минимальным расходом энергии и максимальной адаптацией к потребностям современных покупателей. В рамках реализации этих целей компания разработала конструкцию Aerovan.",
+        "title":"Renault Master 2024 will become more elegant",
+        "date": "11/08/2023",
+        "description": "Renault Master is preparing for its debut: the manufacturer has released the first teaser of the updated van. The official presentation will take place in the coming days at the Solutrans exhibition. The model is designed “for optimal use” with minimal energy consumption and maximum adaptation to the needs of modern buyers. As part of the implementation For these purposes, the company developed the Aerovan design.",
         "img": "assets/news/1.png"
     },
     {
         "id":"News",
-        "title":"Ram 1500 2025 дебютирует с необычной отделкой Tungsten",
-        "date": "07.11.2023",
-        "description": "Компания Ram представила 1500 с обновленным экстерьером, интерьером и совершенно новым 3,0-литровым рядным шестицилиндровым двигателем с двойным турбонаддувом. Начнем с последнего. Двигатель Hurricane пришел на смену культовому HEMI V8 и будет предлагаться в двух вариантах мощности. Версия начального уровня выдает 420 л.с. мощности и 623 Нм крутящего момента, а высокопроизводительный двигатель производит 540 л.с. и 706 Нм соответственно.",
+        "title":"2025 Ram 1500 debuts with unusual Tungsten trim",
+        "date": "11/07/2023",
+        "description": "Ram has unveiled the 1500 with updated exterior, interior and all-new 3.0-liter twin-turbocharged inline-six engine. Let's start with the latter. The Hurricane engine replaces the iconic HEMI V8 and will be offered in two power levels. Version The entry-level engine produces 420 hp of power and 623 Nm of torque, while the high-performance engine produces 540 hp and 706 Nm respectively.",
         "img": "assets/news/2.jpg"
     },
     {
         "id":"News",
-        "title":"Стало известно, когда выйдет следующее поколение Peugeot 5008",
-        "date": "03.11.2023",
-        "description": "Peugeot 5008 следующего поколения будет выпущен в августе 2024 года. В линейке планируется представить полностью электрическую версию. О скором выходе нового поколения 5008 стало известно еще в начале текущего года. Именно тогда в Peugeot подтвердили, что электрическая версия автомобиля находится в разработке. В августе фотографы засняли тесты нового 5008 с двигателем ICE, а в сентябре был замечен электрический прототип.",
+        "title":"It has become known when the next generation of Peugeot 5008 will be released",
+        "date": "11/03/2023",
+        "description": "The next generation Peugeot 5008 will be released in August 2024. It is planned to introduce a fully electric version in the line. The imminent release of the new generation 5008 became known at the beginning of this year. It was then that Peugeot confirmed that the electric version of the car is in In August, photographers filmed tests of the new ICE-powered 5008, and in September an electric prototype was spotted.",
         "img": "assets/news/3.jpg"
     },
     {
         "id":"News",
-        "title":"Lexus GX 2024 стал центром стенда на выставке SEMA",
-        "date": "02.11.2023",
-        "description": "В этом году на выставке SEMA в Лас-Вегасе Lexus решил уделить повышенное внимание внедорожникам, продемонстрировав несколько вариантов GX и модифицированного LX. Эти внедорожные модели призваны подчеркнуть возможности внедорожников Lexus с лестничной рамой. Изюминкой выставки стал совершенно новый Lexus GX 2024 года, родственная модель Toyota Land Cruiser 2024. Речь идет о версии GX 550 Overtrail+, которая оснащена стандартным 3,4-литровым двигателем V6 с двойным турбонаддувом мощностью 349 л.с.",
+        "title":"Lexus GX 2024 became the center of the stand at the SEMA exhibition",
+        "date": "11/02/2023",
+        "description": "At this year's SEMA show in Las Vegas, Lexus decided to put an increased focus on SUVs, showcasing several variants of the GX and a modified LX. These off-road models are designed to highlight the capabilities of Lexus' ladder-frame SUVs. The highlight of the show is the all-new 2024 Lexus GX year, the sister model of the Toyota Land Cruiser 2024. We are talking about the GX 550 Overtrail+ version, which is equipped with a standard 3.4-liter V6 engine with twin turbocharging producing 349 hp.",
         "img": "assets/news/4.jpg"
     },
     {
         "id":"News",
-        "title":"Концепт Hyundai Kona Jayde для искателей приключений",
-        "date": "31.10.2023",
-        "description": "Специально для выставки SEMA компания Hyundai подготовила новый концепт, основанный на модели Kona. Речь о Kona Jayde 2024, который создан для «городских искателей приключений». Автомобиль выкрашен в оттенок цвета «яйца малиновки», контрастирующего с пластиковой обшивкой и матовыми черными цельными легкосплавными дисками HRE 520M. Также в наличии дополнения от Air Design, включая переднюю кромку, пороги и удлиненный задний спойлер.",
+        "title":"Hyundai Kona Jayde Concept for Adventurers",
+        "date": "10/31/2023",
+        "description": "Especially for the SEMA show, Hyundai has prepared a new concept based on the Kona model. We are talking about the Kona Jayde 2024, which is created for “urban adventurers.” The car is painted in a robin's egg shade, contrasting with the plastic lining and matte black HRE 520M solid alloy wheels and Air Design additions including front lip, side skirts and extended rear spoiler.",
         "img": "assets/news/5.jpg"
+    },
+    {
+        "id":"Placeholder",
+        "title": "Placeholder"
     }
 ]

@@ -5,14 +5,14 @@
       <span>{{ data.subtitle }}</span>
     </div>
     <div class="container__parts">
-      <h2>Выыберите марку автомобиля</h2>
+      <h2>Select car brand</h2>
       <div class="container__parts_item" v-for="(item, index) in data.brands" :key="index">
         <section @click="toggleCategoriesVisibility(index)" :class="{ 'active': categoriesVisible[index] }">
           <img :src="data.logo[index]" alt="Brand Logo">
           <span>{{ item }}</span>
         </section>
         <div class="container__parts_categories" :class="{ 'slide-in': categoriesVisible[index], 'slide-out': !categoriesVisible[index] }">
-          <router-link v-for="(category, categoryIndex) in data.parts" :key="categoryIndex" :to="'/placeholder'">
+          <router-link v-for="(category, categoryIndex) in data.parts" :key="categoryIndex" :to="'/order'">
             <img :src="data.parts_images[categoryIndex]" alt="">
             {{ category }}
           </router-link>

@@ -1,10 +1,20 @@
 <template>
-    <h1>Placeholder</h1>
+    <div class="container" v-if="data.id === 'Placeholder'">
+    <h1>{{ data.title }}</h1></div>
 </template>
 
 <script lang="ts">
-import { defineComponent } from 'vue';
-
-export default defineComponent({
-});
+  import { defineComponent } from 'vue';
+  
+  export default defineComponent({
+    props: {
+      data: {
+        type: Object,
+        required: true,
+      },
+    },
+  });
 </script>
+
+<style lang="scss" scoped>
+</style>

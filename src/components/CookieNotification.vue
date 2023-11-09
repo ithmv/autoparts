@@ -1,7 +1,7 @@
 <template>
   <div class="cookie-notification" v-if="!cookiesAccepted">
-    <p>Мы используем куки для улучшения вашего опыта. Продолжая использовать сайт, вы соглашаетесь с нашей политикой использования куки.</p>
-    <button @click="acceptCookies">Принять</button>
+    <p>We use cookies to improve your experience. By continuing to use the site, you agree to our cookie policy.</p>
+     <button @click="acceptCookies">Accept</button>
   </div>
 </template>
 

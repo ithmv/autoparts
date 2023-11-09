@@ -8,14 +8,14 @@
           <span>{{ data.adress_description }}</span>
         </a>
         <a class="container__contacts_phone" :href="'tel:' + data.phone">
-            <h2>Наш телефон:</h2>
+            <h2>Our phone:</h2>
             <p>&#128222; {{ data.phone }}</p>
             <span>{{ data.phone_time }}</span>
         </a>
       </div>
       <iframe :src="data.map" width="600" height="450" style="border:0;" allowfullscreen="false" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       <div class="container__social">
-        <h2>Наши социальные сети:</h2>
+        <h2>Our social networks:</h2>
         <div class="container__social_links">
         <a v-for="(link, index) in data.link" :key="index" :href="link" target="_blank">
           <img :src="data.icons[index]" alt="">
@@ -91,7 +91,7 @@
     &__contacts {
       width: 100%;
       display: flex;
-      align-items: flex-start;
+      align-items: flex-end;
       justify-content: center;
       gap: 20px;
       text-align: left;
