@@ -120,6 +120,12 @@
               &.active {
                 background-color: lightblue;
               }
+
+              @media screen and (max-width: 760px) {
+                width: 90vw;
+                margin: 0 auto;
+                
+              }
           }
 
 
@@ -156,11 +162,11 @@
               }
             }
 
-            @media screen and (max-width: 1160px) {
+            @media screen and (max-width: 1170px) {
               grid-template-columns: repeat(2, 1fr);
             }
 
-            @media screen and (max-width: 760px) {
+            @media screen and (max-width: 560px) {
               grid-template-columns: repeat(1, 1fr);
             }
           }
