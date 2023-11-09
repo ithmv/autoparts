@@ -166,7 +166,7 @@
               grid-template-columns: repeat(2, 1fr);
             }
 
-            @media screen and (max-width: 560px) {
+            @media screen and (max-width: 425px) {
               grid-template-columns: repeat(1, 1fr);
             }
           }
