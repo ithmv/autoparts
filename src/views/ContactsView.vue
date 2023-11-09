@@ -2,7 +2,7 @@
     <div class="container" v-if="data.id === 'Contacts'">
       <div class="container__contacts"> 
         <a class="container__contacts_adress" :href="data.adress_link" target="_blank">
-          <h2>Находимся по адресу:</h2>
+          <h2>We are located at:</h2>
           <h3>{{ data.adress }}</h3>
           <p>{{ data.adress_time }}</p>
           <span>{{ data.adress_description }}</span>
